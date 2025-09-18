@@ -5,10 +5,10 @@ A simple real-time chat application built using *Spring Boot*, *WebSockets*, *HT
 🚀 Features
 
 - 🌐 Real-time communication using WebSockets  
-- 🧑‍🤝‍🧑 User join/leave notifications  
+# - 🧑‍🤝‍🧑 User join/leave notifications  
 - 💬 Broadcast chat messages to all connected clients  
 - 🎨 Simple and responsive frontend  
-- ⚡ Lightweight and scalable backend  
+//- ⚡ Lightweight and scalable backend  
 
 🛠 Tech Stack
 
